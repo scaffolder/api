@@ -8,6 +8,7 @@ REST + gRPC + GraphQL APIs
 
 ## Example calls
 
+```bash
 POST /v1/register
 POST /v1/login
 GET /v1/account
@@ -15,7 +16,7 @@ POST /v1/password/reset
 GET /v1/projects
 GET /v1/projects/project-name/apps
 GET /v1/projects/project-name/services
-
+```
 
 
 

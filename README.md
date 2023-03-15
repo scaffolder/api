@@ -6,6 +6,14 @@ Main point of interaction with Scaffolder aPaaS platform which is heavily used b
 
 REST + gRPC + GraphQL APIs
 
+## Authentication
+
+```bash
+curl --request GET \
+--url "https://api.scaffolder.io/v1/login" \
+--header "Authorization: Bearer YOUR-TOKEN"
+```
+
 ## Example calls
 
 ```bash

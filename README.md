@@ -25,6 +25,3 @@ GET /v1/projects
 GET /v1/projects/project-name/apps
 GET /v1/projects/project-name/services
 ```
-
-
-
